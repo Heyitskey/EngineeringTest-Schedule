@@ -169,22 +169,22 @@ export const Scheduling = () => {
 
 
                                 <div class="form-check">
-                                    <input type="radio" class="form-check-input" name='Shift' value="morning" id="morning" />
+                                    <input type="radio" class="form-check-input"  value="morning" id="morning" />
                                     <label class="form-check-label" for="morning" >Morning</label>
                                 </div>
 
                                 <div class="form-check">
-                                    <input type="radio" class="form-check-input" name='Shift' value="afternoon" id="afternoon" />
+                                    <input type="radio" class="form-check-input"  value="afternoon" id="afternoon" />
                                     <label class="form-check-label" for="afternoon" >Afternoon</label>
                                 </div>
 
                                 <div class="form-check">
-                                    <input type="radio" class="form-check-input" name='Shift' value="evening" id="evening" />
+                                    <input type="radio" class="form-check-input"  value="evening" id="evening" />
                                     <label class="form-check-label" for="evening" >Evening</label>
                                 </div>
 
                                 <div class="form-check">
-                                    <input type="radio" class="form-check-input" name='Shift' value="night" id="night" />
+                                    <input type="radio" class="form-check-input"  value="night" id="night" />
                                     <label class="form-check-label" for="night">Night</label>
                                 </div>
 
@@ -196,7 +196,7 @@ export const Scheduling = () => {
                         <div class="formbold-form-btn-wrapper">
                             <button class="formbold-back-btn">
                                 Back
-                            </button>
+                            </button> 
 
                             <button class="formbold-btn">
                                 Next Step
